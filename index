@@ -13,9 +13,14 @@
              la facilitacion de la vida diaria
             y la comoda utilizacion de la tecnologia para cualquier generacion.</p>
         
-        <h2>Yesica Rodriguez</h2>
-
-        <p>Descripcion: Seria, organizada y centra</p>
+            <h2>Descripcion de Yesica Rodriguez</h2>
+        
+            <p>Responsable, seria y organizada</p>
+    
+            <img src="/imagenyesy.jpeg" style="float: right;" 
+            width="50"
+            height="50"
+            title="Yesica Rodriguez">
 
         
         
